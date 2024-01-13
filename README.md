@@ -1,2 +1,2 @@
 # amy
-updated version of QnA study project
+Updated version of QnA study project
